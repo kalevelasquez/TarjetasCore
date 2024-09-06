@@ -25,7 +25,6 @@ Para poder correr el sistema es necesario tener instalados los siguientes compon
 
 - [Node.js](https://nodejs.org/) (para el frontend)
 
-- [Vercel CLI](https://vercel.com/download) (opcional, para desplegar en Vercel)
 
   
 
