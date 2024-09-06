@@ -1,0 +1,1108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\commands\\createnuevacompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\commands\\createnuevacompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\controllers\\v1\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\controllers\\v1\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\transacciones\\createnuevacompraquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\transacciones\\createnuevacompraquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\controllers\\v1\\parametroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\controllers\\v1\\parametroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\commands\\createnuevopagocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\commands\\createnuevopagocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\createnuevopagousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\createnuevopagousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\transacciones\\createnuevopagoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\transacciones\\createnuevopagoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\transacciones\\createnuevopagoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\transacciones\\createnuevopagoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\queries\\getinfotarjetaqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\queries\\getinfotarjetaqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\dbcontext\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\dbcontext\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\queries\\parametrosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\queries\\parametrosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\getinfotarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\getinfotarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\getinfotarjetaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\getinfotarjetaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\commands\\icreatenuevopagocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\commands\\icreatenuevopagocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\icreatenuevopagousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\icreatenuevopagousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\createnuevacomprausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\createnuevacomprausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\transacciones\\createnuevacompraqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\transacciones\\createnuevacompraqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\icreatenuevacomprausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\icreatenuevacomprausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\commands\\icreatenuevacompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\commands\\icreatenuevacompracommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\transacciones\\gethistorialpagosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\transacciones\\gethistorialpagosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\transacciones\\gethistorialpagosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\transacciones\\gethistorialpagosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\igethistorialpagosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\igethistorialpagosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\gethistorialpagosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\gethistorialpagosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\gethistorialcomprasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\gethistorialcomprasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\transacciones\\gethistorialcomprasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\transacciones\\gethistorialcomprasquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\queries\\igethistorialpagosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\queries\\igethistorialpagosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\queries\\gethistorialpagosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\queries\\gethistorialpagosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\gethistorialcomprasresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\gethistorialcomprasresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\gethistorialpagosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\gethistorialpagosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\queries\\gethistorialcomprasqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\queries\\gethistorialcomprasqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\transacciones\\gethistorialcomprasqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\transacciones\\gethistorialcomprasqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\transacciones\\gethistorialtransaccionesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\transacciones\\gethistorialtransaccionesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\igethistorialcomprasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\igethistorialcomprasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\queries\\igethistorialcomprasqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\queries\\igethistorialcomprasqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\gethistorialtransaccionesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\gethistorialtransaccionesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\queries\\gethistorialtransaccionesqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\queries\\gethistorialtransaccionesqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\transacciones\\gethistorialtransaccionesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\transacciones\\gethistorialtransaccionesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\queries\\igethistorialtransaccionesqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\queries\\igethistorialtransaccionesqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\controllers\\v1\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\controllers\\v1\\tarjetacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\gethistorialtransaccionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\gethistorialtransaccionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\igethistorialtransaccionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\igethistorialtransaccionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\infotarjeta\\getinfotarjetaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\infotarjeta\\getinfotarjetaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\handler\\parametros\\getparametrosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\handler\\parametros\\getparametrosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\igetinfotarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\igetinfotarjetausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\queries\\igetinfotarjetaqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\queries\\igetinfotarjetaqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\infotarjeta\\getinfotarjetaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\infotarjeta\\getinfotarjetaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\features\\parametros\\getparametrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\features\\parametros\\getparametrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\getparametrosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\getparametrosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\tarjetascore.service.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\tarjetascore.service.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\usecases\\interfaces\\igetparametrosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\usecases\\interfaces\\igetparametrosusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\parametrosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\parametrosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\interfaces\\queries\\iparametrosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\interfaces\\queries\\iparametrosqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\dbcontext\\interfaces\\isqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\dbcontext\\interfaces\\isqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E64BEED-74BC-4218-9C3F-43826D6EB829}|TarjetasCore.Service.WebApi\\TarjetasCore.Service.WebApi.csproj|solutionrelative:tarjetascore.service.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\base\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\base\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\base\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\base\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.domain\\entities\\base\\objectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF22C31F-223E-4B29-ADD1-BD4DE6BFFCC6}|TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj|solutionrelative:tarjetascore.service.domain\\entities\\base\\objectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.infrastructure\\tarjetascore.service.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CFA5E98-B962-4720-9783-F0060D12B0DE}|TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj|solutionrelative:tarjetascore.service.infrastructure\\tarjetascore.service.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|c:\\users\\tobar\\documents\\alexis no borrar\\prueba\\tarjetascore.service\\tarjetascore.service.application\\tarjetascore.service.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BA60916-6868-4A22-9EB2-2DDF18F247AB}|TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj|solutionrelative:tarjetascore.service.application\\tarjetascore.service.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNuevaCompraQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevaCompraQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevaCompraQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevaCompraQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevaCompraQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:55:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNuevoPagoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevoPagoCommand.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevoPagoCommand.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevoPagoCommand.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevoPagoCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:53:36.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateNuevoPagoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\CreateNuevoPagoUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\CreateNuevoPagoUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\CreateNuevoPagoUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\CreateNuevoPagoUseCase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:28:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Program.cs",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:08:38.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\appsettings.json",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T13:10:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParametrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\ParametrosController.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\Controllers\\v1\\ParametrosController.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\ParametrosController.cs",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\Controllers\\v1\\ParametrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:11:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNuevaCompraCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevaCompraCommand.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevaCompraCommand.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevaCompraCommand.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Commands\\CreateNuevaCompraCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:01:35.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\Controllers\\v1\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\TransaccionesController.cs",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\Controllers\\v1\\TransaccionesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:54:58.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetInfoTarjetaQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetInfoTarjetaQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Queries\\GetInfoTarjetaQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetInfoTarjetaQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Queries\\GetInfoTarjetaQueries.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:17:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateNuevoPagoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevoPagoQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevoPagoQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevoPagoQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Transacciones\\CreateNuevoPagoQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:27:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateNuevoPagoQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevoPagoQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevoPagoQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevoPagoQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevoPagoQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:28:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqlServerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DBContext\\SqlServerDBContext.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\DBContext\\SqlServerDBContext.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DBContext\\SqlServerDBContext.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\DBContext\\SqlServerDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:13:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:05:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParametrosQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\ParametrosQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Queries\\ParametrosQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\ParametrosQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Queries\\ParametrosQueries.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:27:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetInfoTarjetaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetInfoTarjetaUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\GetInfoTarjetaUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetInfoTarjetaUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\GetInfoTarjetaUseCase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:16:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetInfoTarjetaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetInfoTarjetaResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\GetInfoTarjetaResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetInfoTarjetaResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\GetInfoTarjetaResponse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:17:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICreateNuevoPagoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevoPagoCommand.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevoPagoCommand.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevoPagoCommand.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevoPagoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:53:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICreateNuevoPagoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevoPagoUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevoPagoUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevoPagoUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevoPagoUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:30:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateNuevaCompraUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\CreateNuevaCompraUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\CreateNuevaCompraUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\CreateNuevaCompraUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\CreateNuevaCompraUseCase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:59:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:08:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICreateNuevaCompraUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevaCompraUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevaCompraUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevaCompraUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\ICreateNuevaCompraUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:00:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateNuevaCompraQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevaCompraQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevaCompraQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevaCompraQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Transacciones\\CreateNuevaCompraQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:56:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICreateNuevaCompraCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevaCompraCommand.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevaCompraCommand.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevaCompraCommand.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Commands\\ICreateNuevaCompraCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:01:48.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateNuevaCompraResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\CreateNuevaCompraResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:01:11.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGetHistorialPagosQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialPagosQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialPagosQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialPagosQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialPagosQueries.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:30:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetHistorialPagosUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialPagosUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\GetHistorialPagosUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialPagosUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\GetHistorialPagosUseCase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:35:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetHistorialComprasQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialComprasQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialComprasQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialComprasQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialComprasQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:52:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGetHistorialPagosUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialPagosUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialPagosUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialPagosUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialPagosUseCase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:35:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetHistorialPagosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialPagosQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialPagosQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialPagosQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialPagosQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:37:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetHistorialPagosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialPagosQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialPagosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialPagosQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialPagosQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:40:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetHistorialComprasUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialComprasUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\GetHistorialComprasUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialComprasUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\GetHistorialComprasUseCase.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:54:22.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetHistorialPagosQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialPagosQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialPagosQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialPagosQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialPagosQueries.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:29:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetHistorialPagosResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialPagosResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\GetHistorialPagosResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialPagosResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\GetHistorialPagosResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABQwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:34:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetHistorialComprasQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialComprasQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialComprasQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialComprasQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialComprasQueries.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:57:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetHistorialComprasResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialComprasResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\GetHistorialComprasResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialComprasResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\GetHistorialComprasResponse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA2wBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:56:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetHistorialComprasQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialComprasQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialComprasQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialComprasQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialComprasQueryHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwBgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:53:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TarjetasCore.Service.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\TarjetasCore.Service.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T14:17:05.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetHistorialTransaccionesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialTransaccionesQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialTransaccionesQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialTransaccionesQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Transacciones\\GetHistorialTransaccionesQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:26:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IGetHistorialComprasQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialComprasQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialComprasQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialComprasQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialComprasQueries.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:57:53.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGetHistorialComprasUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialComprasUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialComprasUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialComprasUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialComprasUseCase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:55:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetHistorialTransaccionesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialTransaccionesResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\GetHistorialTransaccionesResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\GetHistorialTransaccionesResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\GetHistorialTransaccionesResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:27:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetHistorialTransaccionesQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialTransaccionesQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialTransaccionesQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialTransaccionesQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\Queries\\GetHistorialTransaccionesQueries.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:28:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetHistorialTransaccionesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialTransaccionesUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\GetHistorialTransaccionesUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetHistorialTransaccionesUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\GetHistorialTransaccionesUseCase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:26:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetHistorialTransaccionesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialTransaccionesQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialTransaccionesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialTransaccionesQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Transacciones\\GetHistorialTransaccionesQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA0AAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:26:26.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TarjetaController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\TarjetaController.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\Controllers\\v1\\TarjetaController.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\v1\\TarjetaController.cs",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\Controllers\\v1\\TarjetaController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:19:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGetHistorialTransaccionesQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialTransaccionesQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialTransaccionesQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialTransaccionesQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetHistorialTransaccionesQueries.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:28:52.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IGetHistorialTransaccionesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialTransaccionesUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialTransaccionesUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialTransaccionesUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetHistorialTransaccionesUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:27:03.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetParametrosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Parametros\\GetParametrosQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\Parametros\\GetParametrosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\Parametros\\GetParametrosQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\Parametros\\GetParametrosQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:27:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGetInfoTarjetaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetInfoTarjetaUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetInfoTarjetaUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetInfoTarjetaUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetInfoTarjetaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:16:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IGetInfoTarjetaQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetInfoTarjetaQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetInfoTarjetaQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetInfoTarjetaQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IGetInfoTarjetaQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:18:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetInfoTarjetaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\InfoTarjeta\\GetInfoTarjetaQueryHandler.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Handler\\InfoTarjeta\\GetInfoTarjetaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Handler\\InfoTarjeta\\GetInfoTarjetaQueryHandler.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Handler\\InfoTarjeta\\GetInfoTarjetaQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:15:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetInfoTarjetaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\InfoTarjeta\\GetInfoTarjetaQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\InfoTarjeta\\GetInfoTarjetaQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\InfoTarjeta\\GetInfoTarjetaQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\InfoTarjeta\\GetInfoTarjetaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:15:17.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetParametrosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Parametros\\GetParametrosQuery.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Features\\Parametros\\GetParametrosQuery.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Features\\Parametros\\GetParametrosQuery.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Features\\Parametros\\GetParametrosQuery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:26:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetParametrosUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetParametrosUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\GetParametrosUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\GetParametrosUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\GetParametrosUseCase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:29:27.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ParametrosResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\ParametrosResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\ParametrosResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\ParametrosResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\ParametrosResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:31:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IGetParametrosUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetParametrosUseCase.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetParametrosUseCase.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetParametrosUseCase.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\UseCases\\Interfaces\\IGetParametrosUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:29:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IParametrosQueries.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IParametrosQueries.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IParametrosQueries.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\Interfaces\\Queries\\IParametrosQueries.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\Interfaces\\Queries\\IParametrosQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:01:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ISqlServerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DBContext\\Interfaces\\ISqlServerDBContext.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\DBContext\\Interfaces\\ISqlServerDBContext.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\DBContext\\Interfaces\\ISqlServerDBContext.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\DBContext\\Interfaces\\ISqlServerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:15:44.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.WebApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "TarjetasCore.Service.WebApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:11:41.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\Base\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\GenericResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\Base\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:29:27.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\ListResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\Base\\ListResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\ListResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\Base\\ListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:28:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ObjectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\ObjectResponse.cs",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Domain\\Entities\\Base\\ObjectResponse.cs",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Domain\\Entities\\Base\\ObjectResponse.cs",
+              "RelativeToolTip": "TarjetasCore.Service.Domain\\Entities\\Base\\ObjectResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:27:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TarjetasCore.Service.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj",
+              "RelativeToolTip": "TarjetasCore.Service.Infrastructure\\TarjetasCore.Service.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T13:06:51.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TarjetasCore.Service.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj",
+              "RelativeDocumentMoniker": "TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj",
+              "ToolTip": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj",
+              "RelativeToolTip": "TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T13:02:43.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

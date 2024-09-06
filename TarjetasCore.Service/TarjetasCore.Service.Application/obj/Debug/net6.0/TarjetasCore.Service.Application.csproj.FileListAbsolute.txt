@@ -1,0 +1,15 @@
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\bin\Debug\net6.0\TarjetasCore.Service.Application.deps.json
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\bin\Debug\net6.0\TarjetasCore.Service.Application.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\bin\Debug\net6.0\TarjetasCore.Service.Application.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\bin\Debug\net6.0\TarjetasCore.Service.Domain.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\bin\Debug\net6.0\TarjetasCore.Service.Domain.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.csproj.AssemblyReference.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.AssemblyInfoInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.AssemblyInfo.cs
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\Tarjetas.E9280667.Up2Date
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\refint\TarjetasCore.Service.Application.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\TarjetasCore.Service.Application.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Application\obj\Debug\net6.0\ref\TarjetasCore.Service.Application.dll

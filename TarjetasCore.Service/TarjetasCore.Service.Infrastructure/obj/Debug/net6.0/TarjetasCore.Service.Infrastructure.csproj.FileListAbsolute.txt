@@ -1,0 +1,17 @@
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Infrastructure.deps.json
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Infrastructure.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Infrastructure.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.AssemblyInfo.cs
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\refint\TarjetasCore.Service.Infrastructure.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\ref\TarjetasCore.Service.Infrastructure.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\TarjetasCore.Service.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Application.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Domain.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Application.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\bin\Debug\net6.0\TarjetasCore.Service.Domain.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Infrastructure\obj\Debug\net6.0\Tarjetas.4A1881F0.Up2Date
