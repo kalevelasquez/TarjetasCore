@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5eVo+QTfD0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobar\\Documents\\ALEXIS NO BORRAR\\Prueba\\TarjetasCore.Service\\TarjetasCore.Service.Application\\TarjetasCore.Service.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobar\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Tobar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Tobar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

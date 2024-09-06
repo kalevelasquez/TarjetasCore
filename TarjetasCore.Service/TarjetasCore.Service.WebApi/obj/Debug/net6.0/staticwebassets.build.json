@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UKnsx8VmLyVJ5muMycodTH/8V2LmwnndiqkdghIH9NM=",
+  "Source": "TarjetasCore.Service.WebApi",
+  "BasePath": "_content/TarjetasCore.Service.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

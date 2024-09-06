@@ -1,0 +1,191 @@
+{
+	"info": {
+		"_postman_id": "54e17f97-9711-4ff0-bf89-5cb705acaa8e",
+		"name": "TarjetasCore.Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "13757469"
+	},
+	"item": [
+		{
+			"name": "Parametros/GetParametrosConfigurables",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:7161/api/v1/Parametros/GetParametrosConfigurables"
+			},
+			"response": []
+		},
+		{
+			"name": "Tarjeta/GetInfoTarjeta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7161/api/v1/Tarjeta/GetInfoTarjeta?numeroTarjeta=4545252332120011",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7161",
+					"path": [
+						"api",
+						"v1",
+						"Tarjeta",
+						"GetInfoTarjeta"
+					],
+					"query": [
+						{
+							"key": "numeroTarjeta",
+							"value": "4545252332120011"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Transacciones/GetHistorialTransaccione",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7161/api/v1/Transacciones/GetHistorialTransacciones?numeroTarjeta=4545252332120011&mes=9&anio=2024",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7161",
+					"path": [
+						"api",
+						"v1",
+						"Transacciones",
+						"GetHistorialTransacciones"
+					],
+					"query": [
+						{
+							"key": "numeroTarjeta",
+							"value": "4545252332120011"
+						},
+						{
+							"key": "mes",
+							"value": "9"
+						},
+						{
+							"key": "anio",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Transacciones/GetHistorialCompras",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7161/api/v1/Transacciones/GetHistorialCompras?numeroTarjeta=4545252332120011&mes=9&anio=2024",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7161",
+					"path": [
+						"api",
+						"v1",
+						"Transacciones",
+						"GetHistorialCompras"
+					],
+					"query": [
+						{
+							"key": "numeroTarjeta",
+							"value": "4545252332120011"
+						},
+						{
+							"key": "mes",
+							"value": "9"
+						},
+						{
+							"key": "anio",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Transacciones/GetHistorialPagos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7161/api/v1/Transacciones/GetHistorialPagos?numeroTarjeta=4545252332120011&mes=9&anio=2024",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7161",
+					"path": [
+						"api",
+						"v1",
+						"Transacciones",
+						"GetHistorialPagos"
+					],
+					"query": [
+						{
+							"key": "numeroTarjeta",
+							"value": "4545252332120011"
+						},
+						{
+							"key": "mes",
+							"value": "9"
+						},
+						{
+							"key": "anio",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Transacciones/CrearNuevaCompra",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"numeroTarjeta\": \"4545252332120011\",\r\n  \"fechaCompra\": \"2024-09-06\",\r\n  \"descripcion\": \"Prueba desde Postman\",\r\n  \"monto\": 10\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://localhost:7161/api/v1/Transacciones/CrearNuevaCompra"
+			},
+			"response": []
+		},
+		{
+			"name": "Transacciones/CrearNuevoPago",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"numeroTarjeta\": \"4545252332120011\",\r\n  \"fechaPago\": \"2024-09-06\",\r\n  \"descripcion\": \"Pruena desde postman\",\r\n  \"montoPago\": 20\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://localhost:7161/api/v1/Transacciones/CrearNuevoPago"
+			},
+			"response": []
+		}
+	]
+}

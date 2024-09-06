@@ -1,0 +1,277 @@
+[
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.ParametrosController",
+    "Method": "GetParametros",
+    "RelativePath": "api/v1/Parametros/GetParametrosConfigurables",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "TarjetasCore.Service.Application.Features.Parametros.GetParametrosQuery",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.ObjectResponse\u00601[[TarjetasCore.Service.Domain.Entities.ParametrosResponse, TarjetasCore.Service.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TarjetaController",
+    "Method": "GetInfoTarjeta",
+    "RelativePath": "api/v1/Tarjeta/GetInfoTarjeta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroTarjeta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.ObjectResponse\u00601[[TarjetasCore.Service.Domain.Entities.GetInfoTarjetaResponse, TarjetasCore.Service.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TransaccionesController",
+    "Method": "CreateNuevaCompra",
+    "RelativePath": "api/v1/Transacciones/CrearNuevaCompra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "TarjetasCore.Service.Application.Features.Transacciones.CreateNuevaCompraQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TransaccionesController",
+    "Method": "CreateNuevoPago",
+    "RelativePath": "api/v1/Transacciones/CrearNuevoPago",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "TarjetasCore.Service.Application.Features.Transacciones.CreateNuevoPagoQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TransaccionesController",
+    "Method": "GetHistorialCompras",
+    "RelativePath": "api/v1/Transacciones/GetHistorialCompras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroTarjeta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "anio",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.ObjectResponse\u00601[[TarjetasCore.Service.Domain.Entities.GetHistorialComprasResponse, TarjetasCore.Service.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TransaccionesController",
+    "Method": "GetHistorialPagos",
+    "RelativePath": "api/v1/Transacciones/GetHistorialPagos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroTarjeta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "anio",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.ObjectResponse\u00601[[TarjetasCore.Service.Domain.Entities.GetHistorialPagosResponse, TarjetasCore.Service.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "TarjetasCore.Service.WebApi.Controllers.v1.TransaccionesController",
+    "Method": "GetHistorialTransacciones",
+    "RelativePath": "api/v1/Transacciones/GetHistorialTransacciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroTarjeta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "anio",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.ObjectResponse\u00601[[TarjetasCore.Service.Domain.Entities.GetHistorialTransaccionesResponse, TarjetasCore.Service.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "TarjetasCore.Service.Domain.Entities.Base.GenericResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

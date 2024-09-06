@@ -1,0 +1,11 @@
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\bin\Debug\net6.0\TarjetasCore.Service.Domain.deps.json
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\bin\Debug\net6.0\TarjetasCore.Service.Domain.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\bin\Debug\net6.0\TarjetasCore.Service.Domain.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.AssemblyInfoInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.AssemblyInfo.cs
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\refint\TarjetasCore.Service.Domain.dll
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\TarjetasCore.Service.Domain.pdb
+C:\Users\Tobar\Documents\ALEXIS NO BORRAR\Prueba\TarjetasCore.Service\TarjetasCore.Service.Domain\obj\Debug\net6.0\ref\TarjetasCore.Service.Domain.dll
